@@ -1,5 +1,5 @@
 # Ipl Analysis
-Data Handling: You imported and merged datasets containing match and score information, ensuring data cleanliness by handling missing values and duplicates.
+<b> Data Handling:</b> You imported and merged datasets containing match and score information, ensuring data cleanliness by handling missing values and duplicates.
 
 Basic Analysis: You checked unique seasons, total matches played, and basic statistics of the datasets.
 
